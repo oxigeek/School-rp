@@ -1,17 +1,27 @@
 return {
 	{
+		["Name"] = "DIEU",
+		["RankPoint"] = 35,
+		["players"] = {
+			--Equipe de build
+			"oxigeek_youtube", 
+			"0V3RDRIVE_Dev",    --Overdrive
+		}
+	},
+
+	{
 		["Name"] = "Mega admin",
 		["RankPoint"] = 30,
 		["players"] = {
 			--Equipe de build
-			"oxigeek_youtube", 
+			--"oxigeek_youtube", 
 			"Fegurie45", 
 			"zhaviaa212", 
 			"Zhavia_secour", 
 			--"GUNHS586",
 			"PetitBiscuit7890",
 			"Netey_TheKing",
-			"0V3RDRIVE_Dev",    --Overdrive
+			--"0V3RDRIVE_Dev",    --Overdrive
 		}
 	},
 
