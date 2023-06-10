@@ -1,11 +1,13 @@
 return {
 	{
-		["Name"] = "DIEU",
+		["Name"] = "Ultra Admin+",
 		["RankPoint"] = 35,
 		["players"] = {
 			--Equipe de build
-			"oxigeek_youtube", 
-			"0V3RDRIVE_Dev",    --Overdrive
+			"oxigeek_youtube",  --Oxi_Fox
+			"0V3RDRIVE_Dev",    --0V3RDRIVE_Dev
+                        "zhaviaa212",       --Zhavia
+                        "Zhavia_secour",    --Zhavia
 		}
 	},
 
@@ -15,13 +17,10 @@ return {
 		["players"] = {
 			--Equipe de build
 			--"oxigeek_youtube", 
-			"Fegurie45", 
-			"zhaviaa212", 
-			"Zhavia_secour", 
-			--"GUNHS586",
-			"PetitBiscuit7890",
-			"Netey_TheKing",
-			--"0V3RDRIVE_Dev",    --Overdrive
+			"Fegurie45", --Coach
+			--"GUNHS586", --Taki
+			"PetitBiscuit7890", --???
+			"Netey_TheKing", --???
 		}
 	},
 
@@ -59,15 +58,15 @@ return {
 			--"Artiquiche",     --CST
 			"WSA_amine55",       --Snow
 			"Loupbleu_VoiceChat",--loubleu 
-			"LilHokai",
-			"OverWater495",
-			"Bad_meuf26",
-			"Philippeveil",
-			"Fr0zen_Gamer63",
-			"ravenfield91",
-			"Lunalabosse1234",
-			"MAEKAN3000",
-			"Azxcomiks13",
+			"LilHokai", --Dembele
+			"OverWater495", --Jhon
+			"Bad_meuf26", --Pêche
+			"Philippeveil",  --SCP-096
+			"Fr0zen_Gamer63", --Panthera
+			"ravenfield91", --babaduck 
+			"Lunalabosse1234", --lunaptdrrr
+			"MAEKAN3000", --Lord_Radde
+			"Azxcomiks13", --Comiks
 		}
 	},
 }
