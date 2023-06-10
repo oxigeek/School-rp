@@ -28,6 +28,12 @@ return {
 		["Name"] = "Super admin",
 		["RankPoint"] = 25,
 		["players"] = {
+			"mathis83game", --Alcatraz
+			--"Player", --
+			--"Player", --
+			--"Player", --
+			--"Player", --
+			--"Player", --
 
 		}
 	},
@@ -45,7 +51,7 @@ return {
 			"Jxsttt_Ec0oo",     --Eco
 			"noob_masteurs",    --sardine
 			"leroilion97",      --La_Fourmi
-			"mathis83game",     --alcatraz  
+			--"Player",     --
 			--"mi0gi",          --mi0gi
 			--"Oasis_better",   --
 			"Enetritz",         --Enetritz
