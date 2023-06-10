@@ -50,7 +50,6 @@ return {
 		["RankPoint"] = 20,
 		["players"] = {
 			--"FrEmojis",        --Night
-			"NewFunRP",          --ExStar
 			"DelonAlain",        --SLAYK
 			"HyerToujoursBan",   --Hyer
 			"maxime26422",       --poolu
