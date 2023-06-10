@@ -4,7 +4,7 @@ return {
 		["RankPoint"] = 30,
 		["players"] = {
 			--Equipe de build
-			"oxigeek_youtube", 
+			--"oxigeek_youtube", 
 			"Fegurie45", 
 			"zhaviaa212", 
 			"Zhavia_secour", 
