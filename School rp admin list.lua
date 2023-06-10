@@ -66,7 +66,6 @@ return {
 			"zorjfb",            --Ethan
 			--"serena_glb",      --Inori
 			"Breenstarr",        --Alvaro
-			--"Artiquiche",      --CST
 			"WSA_amine55",       --Snow
 			"Loupbleu_VoiceChat",--loubleu 
 			"LilHokai",          --Dembele
