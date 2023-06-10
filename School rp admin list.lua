@@ -1,4 +1,4 @@
-{
+return {
 	{
 		["Name"] = "Mega admin",
 		["RankPoint"] = 30,
