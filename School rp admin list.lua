@@ -35,11 +35,11 @@ return {
 		["RankPoint"] = 25,
 		["players"] = {
 			"mathis83game",       --Alcatraz
-			--"Player", --
-			--"Player", --
-			--"Player", --
-			--"Player", --
-			--"Player", --
+			"Shaid66x", 	      --Couscous
+			"DelonAlain",         --SLAYK
+		        "zorjfb",             --Ethan Cally
+			--"Player",           --
+			--"Player",           --
 
 		}
 	},
@@ -49,22 +49,12 @@ return {
 		["Name"] = "Admin",
 		["RankPoint"] = 20,
 		["players"] = {
-			--"FrEmojis",        --Night
-			"DelonAlain",        --SLAYK
 			"HyerToujoursBan",   --Hyer
 			"maxime26422",       --poolu
 			"Jxsttt_Ec0oo",      --Eco
 			"noob_masteurs",     --sardine
 			"leroilion97",       --La_Fourmi
-			--"Player",          --
-			--"mi0gi",           --mi0gi
-			--"Oasis_better",    --
-			"Enetritz",          --Enetritz
 			"BRocoliiYYTTB",     --chacha 
-			--"KUNY_ROBLOX",     --Joestar
-			"Shaid66x",          --Couscous
-			"zorjfb",            --Ethan
-			--"serena_glb",      --Inori
 			"Breenstarr",        --Alvaro
 			"WSA_amine55",       --Snow
 			"Loupbleu_VoiceChat",--loubleu 
