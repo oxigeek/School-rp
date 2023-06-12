@@ -4,8 +4,8 @@ return {
 		["RankPoint"] = 35,
 		["players"] = {
 			--Equipe de build
-                        "zhaviaa212",         --Zhavia
-                        "Zhavia_secour",      --Zhavia
+			"zhaviaa212",         --Zhavia
+			"Zhavia_secour",      --Zhavia
 			"oxigeek_youtube",    --Oxi_Fox
 			"Fegurie45",    --Fegurie45
 			"PetitBiscuit7890",    --PetitBiscuit7890
@@ -40,7 +40,7 @@ return {
 			"mathis83game",       --Alcatraz
 			"Shaid66x", 	      --Cous
 			"DelonAlain",         --SLAuscoYK
-		        "zorjfb",             --Ethan Cally
+			"zorjfb",             --Ethan Cally
 			--"Player",           --
 			--"Player",           --
 
@@ -72,8 +72,9 @@ return {
 			"ImLiiion",          --ImLiiion
 
 		}
+	},
 
-{
+	{
 		["Name"] = "Modo",
 		["RankPoint"] = 15,
 		["players"] = {
@@ -98,7 +99,8 @@ return {
 		}
 	},
 
-{
+
+	{
 		["Name"] = "Modo Test",
 		["RankPoint"] = 13,
 		["players"] = {
@@ -120,6 +122,6 @@ return {
 			--"Players",         --
 			--"Players",         --
 			--"Players",         --
-		}
+		},
 	},
 }
