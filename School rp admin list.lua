@@ -63,7 +63,7 @@ return {
 			"LilHokai",          --Dembele
 			"Bad_meuf26", 	     --Pêche
 			"Philippeveil",      --SCP-096
-			"Fr0zen_Gamer63",    --Panthera
+			--"Fr0zen_Gamer63",    --Panthera
 			"ravenfield91",      --babaduck 
 			"Lunalabosse1234",   --lunaptdrrr
 			"MAEKAN3000",        --Lord_Radde
