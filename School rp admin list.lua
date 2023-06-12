@@ -100,7 +100,7 @@ return {
 
 {
 		["Name"] = "Modo Test",
-		["RankPoint"] = 10,
+		["RankPoint"] = 13,
 		["players"] = {
 			--"Players",   	     --
 			--"Players",         --
