@@ -68,6 +68,7 @@ return {
 			"Lunalabosse1234",   --lunaptdrrr
 			"MAEKAN3000",        --Lord_Radde
 			"Azxcomiks13",       --Comiks
+			"FrEmojis",          --FrEmojis
 		}
 
 {
