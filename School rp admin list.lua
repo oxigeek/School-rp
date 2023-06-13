@@ -1,7 +1,7 @@
 return {
 	{
 		["Name"] = "Fondateur",
-		["RankPoint"] = 35,
+		["RankPoint"] = 40,
 		["players"] = {
 			--Equipe de build
 			"zhaviaa212",         --Zhavia
