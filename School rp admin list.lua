@@ -64,7 +64,7 @@ return {
 			"ravenfield91",       --babaduck *
 			"MAEKAN3000",         --Lord_Radde *
 			"Azxcomiks13",        --Comiks *
-			"FrEmojis",           --FrEmojis *
+			--"FrEmojis",           --FrEmojis *
 
 
 		}
