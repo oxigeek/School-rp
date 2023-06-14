@@ -72,7 +72,7 @@ return {
 
 	{
 		["Name"] = "Modo",
-		["RankPoint"] = 15,
+		["RankPoint"] = 5,
 		["players"] = {
 			"Bad_meuf26",        --Pêche
 			--"Players",         --
@@ -98,7 +98,7 @@ return {
 
 	{
 		["Name"] = "Modo Test",
-		["RankPoint"] = 13,
+		["RankPoint"] = 3,
 		["players"] = {
 		        "ImLiiion",   	           --Seido
 			"Lunalabosse1234",         --Lunalabosse1234
