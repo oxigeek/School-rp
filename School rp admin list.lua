@@ -52,18 +52,20 @@ return {
 		["Name"] = "Admin",
 		["RankPoint"] = 20,
 		["players"] = {
-			"HyerToujoursBan",   --Hyer *
-			"maxime26422",       --poolu *
-			"Jxsttt_Ec0oo",      --Eco *
-			"noob_masteurs",     --sardine *		 
-			"BRocoliiYYTTB",     --chacha *
-			"WSA_amine55",       --Snow *
-			"Loupbleu_VoiceChat",--loubleu * 
-			"LilHokai",          --Dembele *
-			"Fr0zen_Gamer63",    --Panthera *
-			"ravenfield91",      --babaduck *
-			"MAEKAN3000",        --Lord_Radde *
-			"Azxcomiks13",       --Comiks *
+			"HyerToujoursBan",    --Hyer *
+			"maxime26422",        --poolu *
+			"Jxsttt_Ec0oo",       --Eco *
+			"noob_masteurs",      --sardine *		 
+			"BRocoliiYYTTB",      --chacha *
+			"WSA_amine55",        --Snow *
+			"Loupbleu_VoiceChat", --loubleu * 
+			"LilHokai",           --Dembele *
+			"Fr0zen_Gamer63",     --Panthera *
+			"ravenfield91",       --babaduck *
+			"MAEKAN3000",         --Lord_Radde *
+			"Azxcomiks13",        --Comiks *
+			"FrEmojis",           --FrEmojis *
+
 
 		}
 	},
@@ -72,7 +74,7 @@ return {
 		["Name"] = "Modo",
 		["RankPoint"] = 15,
 		["players"] = {
-			"Bad_meuf26",      --Bad_meuf26
+			"Bad_meuf26",        --Pêche
 			--"Players",         --
 			--"Players",         --
 			--"Players",         --
@@ -98,9 +100,9 @@ return {
 		["Name"] = "Modo Test",
 		["RankPoint"] = 13,
 		["players"] = {
-		        "ImLiiion",   	           --ImLiiion
+		        "ImLiiion",   	           --Seido
 			"Lunalabosse1234",         --Lunalabosse1234
-			"Philippeveil",            --Philippeveil
+			"Philippeveil",            --SCP-096
 			--"Players",         --
 			--"Players",         --
 			--"Players",         -- 
