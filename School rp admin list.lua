@@ -52,24 +52,18 @@ return {
 		["Name"] = "Admin",
 		["RankPoint"] = 20,
 		["players"] = {
-			"HyerToujoursBan",   --Hyer
-			"maxime26422",       --poolu
-			"Jxsttt_Ec0oo",      --Eco
-			"noob_masteurs",     --sardine
-			"leroilion97",       --La_Fourmi
-			"BRocoliiYYTTB",     --chacha 
-			"WSA_amine55",       --Snow
-			"Loupbleu_VoiceChat",--loubleu 
-			"LilHokai",          --Dembele
-			"Bad_meuf26", 	     --Pêche
-			"Philippeveil",      --SCP-096
-			"Fr0zen_Gamer63",    --Panthera
-			"ravenfield91",      --babaduck 
-			"Lunalabosse1234",   --lunaptdrrr
-			"MAEKAN3000",        --Lord_Radde
-			"Azxcomiks13",       --Comiks
-			--"FrEmojis",        --FrEmojis
-			"ImLiiion",          --ImLiiion
+			"HyerToujoursBan",   --Hyer *
+			"maxime26422",       --poolu *
+			"Jxsttt_Ec0oo",      --Eco *
+			"noob_masteurs",     --sardine *		 
+			"BRocoliiYYTTB",     --chacha *
+			"WSA_amine55",       --Snow *
+			"Loupbleu_VoiceChat",--loubleu * 
+			"LilHokai",          --Dembele *
+			"Fr0zen_Gamer63",    --Panthera *
+			"ravenfield91",      --babaduck *
+			"MAEKAN3000",        --Lord_Radde *
+			"Azxcomiks13",       --Comiks *
 
 		}
 	},
@@ -78,7 +72,7 @@ return {
 		["Name"] = "Modo",
 		["RankPoint"] = 15,
 		["players"] = {
-			--"Players",   	     --
+			"Bad_meuf26",      --Bad_meuf26
 			--"Players",         --
 			--"Players",         --
 			--"Players",         --
@@ -104,9 +98,9 @@ return {
 		["Name"] = "Modo Test",
 		["RankPoint"] = 13,
 		["players"] = {
-			--"Players",   	     --
-			--"Players",         --
-			--"Players",         --
+		        "ImLiiion",   	           --ImLiiion
+			"Lunalabosse1234",         --Lunalabosse1234
+			"Philippeveil",            --Philippeveil
 			--"Players",         --
 			--"Players",         --
 			--"Players",         -- 
