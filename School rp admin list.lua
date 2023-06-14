@@ -38,10 +38,10 @@ return {
 		["RankPoint"] = 25,
 		["players"] = {
 			"mathis83game",       --Alcatraz
-			"Shaid66x", 	      --Cous
+			"Shaid66x", 	      --Couscous
 			"DelonAlain",         --SLAuscoYK
 			"zorjfb",             --Ethan Cally
-			--"Player",           --
+			"WSA_amine55",        --Snow
 			--"Player",           --
 
 		}
@@ -57,14 +57,14 @@ return {
 			"Jxsttt_Ec0oo",       --Eco *
 			"noob_masteurs",      --sardine *		 
 			"BRocoliiYYTTB",      --chacha *
-			"WSA_amine55",        --Snow *
+			--"WSA_amine55",        --Snow *
 			"Loupbleu_VoiceChat", --loubleu * 
 			"LilHokai",           --Dembele *
 			"Fr0zen_Gamer63",     --Panthera *
 			"ravenfield91",       --babaduck *
 			"MAEKAN3000",         --Lord_Radde *
 			"Azxcomiks13",        --Comiks *
-			--"FrEmojis",           --FrEmojis *
+			--"FrEmojis",         --FrEmojis *
 
 
 		}
