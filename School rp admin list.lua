@@ -25,7 +25,7 @@ return {
 	},
 
 	{
-		["Name"] = "Mega admin",
+		["Name"] = "Mega Admin",
 		["RankPoint"] = 30,
 		["players"] = {
 			--Equipe de build
@@ -34,7 +34,7 @@ return {
 	},
 
 	{
-		["Name"] = "Super admin",
+		["Name"] = "Super Admin",
 		["RankPoint"] = 25,
 		["players"] = {
 			"mathis83game",       --Alcatraz
