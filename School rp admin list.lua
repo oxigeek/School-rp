@@ -60,7 +60,6 @@ return {
 			"leroilion97",        --Cassoulet *
 			"Loupbleu_VoiceChat", --loubleu * 
 			"LilHokai",           --Dembele *
-			"Fr0zen_Gamer63",     --Panthera *
 			"ravenfield91",       --babaduck *
 			"MAEKAN3000",         --Lord_Radde *
 			"Azxcomiks13",        --Comiks *
