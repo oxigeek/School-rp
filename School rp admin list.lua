@@ -57,7 +57,7 @@ return {
 			"Jxsttt_Ec0oo",       --Eco *
 			"noob_masteurs",      --sardine *		 
 			"BRocoliiYYTTB",      --chacha *
-			--"WSA_amine55",        --Snow *
+			"leroilion97",        --Cassoulet *
 			"Loupbleu_VoiceChat", --loubleu * 
 			"LilHokai",           --Dembele *
 			"Fr0zen_Gamer63",     --Panthera *
