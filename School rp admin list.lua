@@ -73,8 +73,8 @@ return {
 		["Name"] = "Modo",
 		["RankPoint"] = 5,
 		["players"] = {
-			--"Players",         --
-			--"Players",         --
+			"ImLiiion",         --Seido
+			"Lunalabosse1234",  --Lunalaptdrr
 			--"Players",         --
 			--"Players",         --
 			--"Players",         --
@@ -99,8 +99,6 @@ return {
 		["Name"] = "Modo Test",
 		["RankPoint"] = 3,
 		["players"] = {
-		        "ImLiiion",   	           --Seido
-			"Lunalabosse1234",         --Lunalabosse1234
 			"Philippeveil",            --SCP-096
 			--"Players",         --
 			--"Players",         --
