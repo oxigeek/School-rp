@@ -52,18 +52,18 @@ return {
 		["Name"] = "Admin",
 		["RankPoint"] = 20,
 		["players"] = {
-			"HyerToujoursBan",    --Hyer *
-			"maxime26422",        --poolu *
-			"Jxsttt_Ec0oo",       --Eco *
-			"noob_masteurs",      --sardine *		 
-			"BRocoliiYYTTB",      --chacha *
-			"leroilion97",        --Cassoulet *
-			"Loupbleu_VoiceChat", --loubleu * 
-			"LilHokai",           --Dembele *
-			"ravenfield91",       --babaduck *
-			"MAEKAN3000",         --Lord_Radde *
-			"Azxcomiks13",        --Comiks *
-			--"FrEmojis",         --FrEmojis *
+			"HyerToujoursBan",    --Hyer 
+			"maxime26422",        --poolu 
+			"Jxsttt_Ec0oo",       --Eco 
+			"noob_masteurs",      --sardine 		 
+			"BRocoliiYYTTB",      --chacha 
+			"leroilion97",        --Cassoulet 
+			"Loupbleu_VoiceChat", --loubleu 
+			"LilHokai",           --Dembele 
+			"ravenfield91",       --babaduck 
+			"MAEKAN3000",         --Lord_Radde 
+			"Azxcomiks13",        --Comiks 
+			"Bad_meuf26",         --Pêche
 
 
 		}
@@ -73,7 +73,7 @@ return {
 		["Name"] = "Modo",
 		["RankPoint"] = 5,
 		["players"] = {
-			"Bad_meuf26",        --Pêche
+			--"Players",         --
 			--"Players",         --
 			--"Players",         --
 			--"Players",         --
