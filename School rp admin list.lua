@@ -74,7 +74,7 @@ return {
 		["RankPoint"] = 5,
 		["players"] = {
 			"ImLiiion",          --Seido
-			--"Players",         --
+			"Jxsttt_Ec0oo",      --Jxsttt_Ec0oo
 			--"Players",         --
 			--"Players",         --
 			--"Players",         --
