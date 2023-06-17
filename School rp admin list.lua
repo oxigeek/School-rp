@@ -57,7 +57,7 @@ return {
 			"Jxsttt_Ec0oo",       --Eco 
 			"noob_masteurs",      --sardine 		 
 			"BRocoliiYYTTB",      --chacha 
-			"leroilion97",        --Cassoulet 
+			--"leroilion97",        --Cassoulet 
 			"Loupbleu_VoiceChat", --loubleu 
 			"LilHokai",           --Dembele 
 			"ravenfield91",       --babaduck 
@@ -75,7 +75,7 @@ return {
 		["players"] = {
 			"ImLiiion",          --Seido
 			"Jxsttt_Ec0oo",      --Jxsttt_Ec0oo
-			--"Players",         --
+			"leroilion97",       --Cassoulet
 			--"Players",         --
 			--"Players",         --
 			--"Players",         -- 
