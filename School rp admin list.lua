@@ -63,8 +63,8 @@ return {
 			"ravenfield91",       --babaduck 
 			"MAEKAN3000",         --Lord_Radde 
 			"Azxcomiks13",        --Comiks 
-			"Bad_meuf26",         --Pêche
-
+			"Bad_meuf26",         --Pêche 
+			"Lunalabosse1234",    --LunaPtdrr
 
 		}
 	},
@@ -73,8 +73,8 @@ return {
 		["Name"] = "Modo",
 		["RankPoint"] = 5,
 		["players"] = {
-			"ImLiiion",         --Seido
-			"Lunalabosse1234",  --Lunalaptdrr
+			"ImLiiion",          --Seido
+			--"Players",         --
 			--"Players",         --
 			--"Players",         --
 			--"Players",         --
