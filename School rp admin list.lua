@@ -55,7 +55,7 @@ return {
 			"BRocoliiYYTTB",      --chacha 
 			"Loupbleu_VoiceChat", --loubleu 
 			"LilHokai",           --Dembele 
-			"ravenfield91",       --babaduck 
+			"ravenfield91",       --babaduck
 			"MAEKAN3000",         --Lord_Radde 
 			"Azxcomiks13",        --Comiks 
 			"Bad_meuf26",         --Pêche 
