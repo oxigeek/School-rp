@@ -49,6 +49,7 @@ return {
 		["Name"] = "Admin",
 		["RankPoint"] = 20,
 		["players"] = {
+			"maxime26422",       --poolu 
 			"HyerToujoursBan",    --Hyer 
 			"noob_masteurs",      --sardine 		 
 			"BRocoliiYYTTB",      --chacha 
@@ -69,7 +70,6 @@ return {
 		["players"] = {
 			"Lunalabosse1234",   --Lunalabosse1234
 			"leroilion97",       --Cassoulet 
-			"maxime26422",       --poolu 
 			--"Players",         --
 			--"Players",         -- 
 			--"Players",         --
