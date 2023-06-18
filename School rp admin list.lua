@@ -59,7 +59,8 @@ return {
 			"MAEKAN3000",         --Lord_Radde 
 			"Azxcomiks13",        --Comiks 
 			"Bad_meuf26",         --Pêche 
-			"ImLiiion",           --Seido
+			"ImLiiion",           --Seido WSA_amine55
+			"WSA_amine55",        --Snow
 
 		}
 	},
