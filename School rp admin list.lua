@@ -37,12 +37,9 @@ return {
 		["Name"] = "Super Admin",
 		["RankPoint"] = 25,
 		["players"] = {
-			"mathis83game",       --Alcatraz
 			"Shaid66x", 	      --Couscous
-			"DelonAlain",         --SLAuscoYK
+			"DelonAlain",         --SLAYKscoYK
 			"zorjfb",             --Ethan Cally
-			--"WSA_amine55",        --Snow
-			--"Player",           --
 
 		}
 	},
@@ -53,7 +50,6 @@ return {
 		["RankPoint"] = 20,
 		["players"] = {
 			"HyerToujoursBan",    --Hyer 
-			"maxime26422",        --poolu 
 			"Jxsttt_Ec0oo",       --Eco 
 			"noob_masteurs",      --sardine 		 
 			"BRocoliiYYTTB",      --chacha 
@@ -77,7 +73,7 @@ return {
 			"leroilion97",       --Cassoulet
 			"Lunalabosse1234",   --Lunalabosse1234
 			"leroilion97",        --Cassoulet 
-			--"Players",         -- 
+			"maxime26422",        --poolu 
 			--"Players",         --
 			--"Players",         -- 
 			--"Players",         --
