@@ -25,11 +25,11 @@ return {
 	},
 
 	{
-		["Name"] = "Mega Admin",
+		["Name"] = "Sous Gérant Staff",
 		["RankPoint"] = 30,
 		["players"] = {
 			--Equipe de build
-			"Netey_TheKing",      --???
+			"mathis83game",      --mathis83game
 		}
 	},
 
@@ -41,7 +41,7 @@ return {
 			"Shaid66x", 	      --Couscous
 			"DelonAlain",         --SLAuscoYK
 			"zorjfb",             --Ethan Cally
-			"WSA_amine55",        --Snow
+			--"WSA_amine55",        --Snow
 			--"Player",           --
 
 		}
@@ -57,14 +57,14 @@ return {
 			"Jxsttt_Ec0oo",       --Eco 
 			"noob_masteurs",      --sardine 		 
 			"BRocoliiYYTTB",      --chacha 
-			--"leroilion97",        --Cassoulet 
 			"Loupbleu_VoiceChat", --loubleu 
 			"LilHokai",           --Dembele 
 			"ravenfield91",       --babaduck 
 			"MAEKAN3000",         --Lord_Radde 
 			"Azxcomiks13",        --Comiks 
 			"Bad_meuf26",         --Pêche 
-			"Lunalabosse1234",    --LunaPtdrr
+			"ImLiiion",           --Seido
+			"WSA_amine55",        --Snow 
 
 		}
 	},
@@ -74,10 +74,9 @@ return {
 		["RankPoint"] = 5,
 		["players"] = {
 			"ImLiiion",          --Seido
-			"Jxsttt_Ec0oo",      --Jxsttt_Ec0oo
 			"leroilion97",       --Cassoulet
-			--"Players",         --
-			--"Players",         --
+			"Lunalabosse1234",   --Lunalabosse1234
+			"leroilion97",        --Cassoulet 
 			--"Players",         -- 
 			--"Players",         --
 			--"Players",         -- 
@@ -99,7 +98,6 @@ return {
 		["Name"] = "Modo Test",
 		["RankPoint"] = 3,
 		["players"] = {
-			"Philippeveil",            --SCP-096
 			--"Players",         --
 			--"Players",         --
 			--"Players",         -- 
