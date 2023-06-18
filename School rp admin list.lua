@@ -59,7 +59,6 @@ return {
 			"Azxcomiks13",        --Comiks 
 			"Bad_meuf26",         --Pêche 
 			"ImLiiion",           --Seido
-			"WSA_amine55",        --Snow 
 
 		}
 	},
