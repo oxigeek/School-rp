@@ -50,7 +50,6 @@ return {
 		["RankPoint"] = 20,
 		["players"] = {
 			"HyerToujoursBan",    --Hyer 
-			"Jxsttt_Ec0oo",       --Eco 
 			"noob_masteurs",      --sardine 		 
 			"BRocoliiYYTTB",      --chacha 
 			"Loupbleu_VoiceChat", --loubleu 
@@ -69,11 +68,9 @@ return {
 		["Name"] = "Modo",
 		["RankPoint"] = 5,
 		["players"] = {
-			"ImLiiion",          --Seido
-			"leroilion97",       --Cassoulet
 			"Lunalabosse1234",   --Lunalabosse1234
-			"leroilion97",        --Cassoulet 
-			"maxime26422",        --poolu 
+			"leroilion97",       --Cassoulet 
+			"maxime26422",       --poolu 
 			--"Players",         --
 			--"Players",         -- 
 			--"Players",         --
