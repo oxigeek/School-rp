@@ -38,7 +38,7 @@ return {
 		["RankPoint"] = 25,
 		["players"] = {
 			"Shaid66x", 	      --Couscous
-			"DelonAlain",         --SLAYKscoYK
+			"DelonAlain",         --SLAYK
 			"zorjfb",             --Ethan Cally
 
 		}
