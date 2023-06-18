@@ -7,8 +7,8 @@ return {
 			"zhaviaa212",         --Zhavia
 			"Zhavia_secour",      --Zhavia
 			"oxigeek_youtube",    --Oxi_Fox
-			"Fegurie45",    --Fegurie45
-			"PetitBiscuit7890",    --PetitBiscuit7890
+			"Fegurie45",          --Fegurie45
+			"PetitBiscuit7890",   --PetitBiscuit7890
 
 
 		}
