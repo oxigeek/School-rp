@@ -9,7 +9,7 @@ return {
 			"oxigeek_youtube",    --Oxi_Fox
 			"Fegurie45",          --Fegurie45
 			"PetitBiscuit7890",   --PetitBiscuit7890
-
+			"0V3RDRIVE_Dev",   --PetitBiscuit7890
 
 		}
 	},
@@ -19,7 +19,7 @@ return {
 		["RankPoint"] = 35,
 		["players"] = {
 			--Equipe de build
-			"0V3RDRIVE_Dev",      --0V3RDRIVE_Dev
+			--"0V3RDRIVE_Dev",      --0V3RDRIVE_Dev
 			"0VERDRIVE_Dev",      --0VERDRIVE_Dev --Compte Secours
 		}
 	},
