@@ -51,7 +51,7 @@ return {
 			"maxime26422",       --poolu 
 			"HyerToujoursBan",    --Hyer 
 			"noob_masteurs",      --sardine 		 
-			"BRocoliiYYTTB",      --chacha 
+			--"BRocoliiYYTTB",      --chacha
 			"Loupbleu_VoiceChat", --loubleu 
 			"LilHokai",           --Dembele 
 			"ravenfield91",       --babaduck
