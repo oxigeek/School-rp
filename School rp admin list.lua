@@ -51,14 +51,14 @@ return {
 			"maxime26422",       --poolu 
 			"HyerToujoursBan",    --Hyer 
 			"noob_masteurs",      --sardine 		 
-			--"BRocoliiYYTTB",      --chacha
+			"BRocoliiYYTTB",      --chacha
 			"Loupbleu_VoiceChat", --loubleu 
 			"LilHokai",           --Dembele 
 			"ravenfield91",       --babaduck
 			"MAEKAN3000",         --Lord_Radde 
 			"Azxcomiks13",        --Comiks 
 			"Bad_meuf26",         --Pêche 
-			"ImLiiion",           --Seido WSA_amine55
+			"ImLiiion",           --Seido
 			"WSA_amine55",        --Snow
 
 		}
@@ -69,9 +69,8 @@ return {
 		["RankPoint"] = 5,
 		["players"] = {
 			"Lunalabosse1234",   --Lunalabosse1234
-			"leroilion97",       --Cassoulet 
-			--"Players",         --
-			--"Players",         -- 
+			"leroilion97",       --Cassoulet
+			"Philippeveil",      --SCP096
 			--"Players",         --
 			--"Players",         --
 			--"Players",         --
