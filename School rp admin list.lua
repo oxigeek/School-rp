@@ -54,9 +54,7 @@ return {
 			"ravenfield91",       --babaduck
 			"MAEKAN3000",         --Lord_Radde 
 			"Azxcomiks13",        --Comiks 
-			"Bad_meuf26",         --Pêche 
 			"ImLiiion",           --Seido
-			"WSA_amine55",        --Snow
 
 		}
 	},
@@ -69,7 +67,7 @@ return {
 			"leroilion97",       --Cassoulet
 			"philippeVeil",      --SCP096
 			"maxime26422",       --Poulu
-			--"Players",         --
+			"Bad_meuf26",        --Pêche 
 			--"Players",         --
 			--"Players",         --
 			--"Players",         --
