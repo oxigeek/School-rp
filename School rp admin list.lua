@@ -48,7 +48,6 @@ return {
 		["Name"] = "Admin",
 		["RankPoint"] = 20,
 		["players"] = {
-			"maxime26422",       --poolu 
 			"HyerToujoursBan",    --Hyer 
 			"noob_masteurs",      --sardine 		 
 			"BRocoliiYYTTB",      --chacha
