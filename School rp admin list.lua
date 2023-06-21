@@ -52,7 +52,7 @@ return {
 			"HyerToujoursBan",    --Hyer 
 			"noob_masteurs",      --sardine 		 
 			"BRocoliiYYTTB",      --chacha
-			"Loupbleu_VoiceChat", --loubleu 
+			"Loupbleu_VoiceChat", --loubleu
 			"LilHokai",           --Dembele 
 			"ravenfield91",       --babaduck
 			"MAEKAN3000",         --Lord_Radde 
