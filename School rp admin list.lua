@@ -70,7 +70,7 @@ return {
 		["players"] = {
 			"Lunalabosse1234",   --Lunalabosse1234
 			"leroilion97",       --Cassoulet
-			"Philippeveil",      --SCP096
+			"philippeVeil",      --SCP096
 			--"Players",         --
 			--"Players",         --
 			--"Players",         --
