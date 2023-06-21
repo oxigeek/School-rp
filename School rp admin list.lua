@@ -18,8 +18,7 @@ return {
 		["RankPoint"] = 35,
 		["players"] = {
 			--Equipe de build
-			"mathis83game",      --0V3RDRIVE_Dev
-			"0VERDRIVE_Dev",      --0VERDRIVE_Dev --Compte Secours
+			"mathis83game",      --Alcatraz
 		}
 	},
 
@@ -28,7 +27,7 @@ return {
 		["RankPoint"] = 30,
 		["players"] = {
 			--Equipe de build
-			"mathis83game",      --mathis83game
+			--"mathis83game",      --mathis83game
 		}
 	},
 
