@@ -48,7 +48,6 @@ return {
 		["Name"] = "Admin",
 		["RankPoint"] = 20,
 		["players"] = {
-			"HyerToujoursBan",    --Hyer 
 			"noob_masteurs",      --sardine 		 
 			"BRocoliiYYTTB",      --chacha
 			"Loupbleu_VoiceChat", --loubleu
