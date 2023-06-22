@@ -104,7 +104,7 @@ return {
 
 	{
 		["Name"] = "gérant wl",
-		["RankPoint"] = 2,
+		["RankPoint"] = 3,
 		["players"] = {
 			"mradriax51100",         --ADRIAX
 			--"Players",         --
