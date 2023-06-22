@@ -9,6 +9,7 @@ return {
 			"oxigeek_youtube",    --Oxi_Fox
 			"Fegurie45",          --Fegurie45
 			"PetitBiscuit7890",   --PetitBiscuit7890
+			"0V3RDRIVE_Dev",      --Alcatraz
 
 		}
 	},
@@ -19,7 +20,6 @@ return {
 		["players"] = {
 			--Equipe de build
 			"mathis83game",      --Alcatraz
-			"0V3RDRIVE_Dev",      --Alcatraz
 
 		}
 	},
