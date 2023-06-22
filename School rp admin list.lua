@@ -84,7 +84,7 @@ return {
 		["Name"] = "Developpeur",
 		["RankPoint"] = 3,
 		["players"] = {
-			--"HyerToujoursBan",         --Hyers
+			"HyerToujoursBan",         --Hyers
 			--"Players",         --
 			--"Players",         -- 
 			--"Players",         --
