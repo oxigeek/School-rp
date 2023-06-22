@@ -101,4 +101,26 @@ return {
 			--"Players",         --
 		},
 	},
+
+	{
+		["Name"] = "gérant wl",
+		["RankPoint"] = 2,
+		["players"] = {
+			"mradriax51100",         --ADRIAX
+			--"Players",         --
+			--"Players",         -- 
+			--"Players",         --
+			--"Players",         -- 
+			--"Players",         --
+			--"Players",         --
+			--"Players",         --
+			--"Players",         --
+			--"Players",         --
+			--"Players",         -- 
+			--"Players",         --
+			--"Players",         --
+			--"Players",         --
+			--"Players",         --
+		},
+	},
 }
