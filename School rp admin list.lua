@@ -79,4 +79,26 @@ return {
 			--"Players",         --
 		}
 	},
+
+	{
+		["Name"] = "Developpeur",
+		["RankPoint"] = 3,
+		["players"] = {
+			"HyerToujoursBan",         --Hyers
+			--"Players",         --
+			--"Players",         -- 
+			--"Players",         --
+			--"Players",         -- 
+			--"Players",         --
+			--"Players",         --
+			--"Players",         --
+			--"Players",         --
+			--"Players",         --
+			--"Players",         -- 
+			--"Players",         --
+			--"Players",         --
+			--"Players",         --
+			--"Players",         --
+		},
+	},
 }
