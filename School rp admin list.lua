@@ -39,7 +39,6 @@ return {
 			"Shaid66x", 	      --Couscous
 			"DelonAlain",         --SLAYK
 			"zorjfb",             --Ethan Cally
-			"Poulakisi",          --Mr.Poulaki
 		}
 	},
 
@@ -56,6 +55,7 @@ return {
 			"MAEKAN3000",         --Lord_Radde 
 			"Azxcomiks13",        --Comiks 
 			"ImLiiion",           --Seido
+			"Poulakisi",          --Mr.Poulaki
 
 		}
 	},
