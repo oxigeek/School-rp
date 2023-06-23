@@ -50,7 +50,7 @@ return {
 			"noob_masteurs",      --sardine 		 
 			"BRocoliiYYTTB",      --chacha
 			"Loupbleu_VoiceChat", --loubleu
-			"LilHokai",           --Dembele 
+			"DembeleIsBack",           --Dembele 
 			"ravenfield91",       --babaduck
 			"MAEKAN3000",         --Lord_Radde 
 			"Azxcomiks13",        --Comiks 
