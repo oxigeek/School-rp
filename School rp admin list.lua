@@ -56,6 +56,7 @@ return {
 			"Azxcomiks13",        --Comiks 
 			"ImLiiion",           --Seido
 			"Poulakisi",          --Mr.Poulaki
+			"MAEKAN3001",         --Lord_Radde 
 
 		}
 	},
