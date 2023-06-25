@@ -39,6 +39,7 @@ return {
 			"Shaid66x", 	      --Couscous
 			"DelonAlain",         --SLAYK
 			"zorjfb",             --Ethan Cally
+			"Adriax51100",         --ADRIAX
 		}
 	},
 
@@ -107,7 +108,6 @@ return {
 		["Name"] = "gérant wl",
 		["RankPoint"] = 3,
 		["players"] = {
-			"Adriax51100",         --ADRIAX
 			--"Players",         --
 			--"Players",         -- 
 			--"Players",         --
