@@ -57,6 +57,7 @@ return {
 			"ImLiiion",           --Seido
 			"Poulakisi",          --Mr.Poulaki
 			"MAEKAN3001",         --Lord_Radde 
+			"Bad_meuf26",        --Pêche 
 
 		}
 	},
@@ -69,7 +70,6 @@ return {
 			"leroilion97",       --Cassoulet
 			"philippeVeil",      --SCP096
 			"maxime26422",       --Poulu
-			"Bad_meuf26",        --Pêche 
 			--"Players",         --
 			--"Players",         --
 			--"Players",         --
