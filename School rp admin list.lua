@@ -57,7 +57,7 @@ return {
 			"Azxcomiks13",        --Comiks 
 			"ImLiiion",           --Seido
 			"Poulakisi",          --Mr.Poulaki
-			"Poulakiis",          --Mr.Poulaki
+			"Poulakiis",          --Mr.Poulaki alt
 			"MAEKAN3001",         --Lord_Radde 
 			"Bad_meuf26",        --Pêche 
 
@@ -71,7 +71,7 @@ return {
 			"Lunalabosse1234",   --Lunalabosse1234
 			"leroilion97",       --Cassoulet
 			"philippeVeil",      --SCP096
-			"maxime26422",       --Poulu
+			--"maxime26422",       --Poulu
 			--"Players",         --
 			--"Players",         --
 			--"Players",         --
