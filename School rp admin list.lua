@@ -49,9 +49,10 @@ return {
 		["Name"] = "Admin",
 		["RankPoint"] = 20,
 		["players"] = {
+			"Loupbleu_VoiceChat", --loubleu //NE PAS SUPPRIMER SAUF URGENCE
+
 			"noob_masteurs",      --sardine 		 
 			"BRocoliiYYTTB",      --chacha
-			"Loupbleu_VoiceChat", --loubleu
 			"DembeleIsBack",      --Dembele 
 			--"ravenfield91",     --babaduck
 			"MAEKAN3000",         --Lord_Radde 
