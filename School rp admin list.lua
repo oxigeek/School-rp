@@ -62,6 +62,7 @@ return {
 			"MAEKAN3001",         --Lord_Radde 
 			"Bad_meuf26",         --Pêche
 			"Adriax51100",        --ADRIAX
+			"leroilion97",       --Cassoulet
 
 		}
 	},
@@ -71,7 +72,6 @@ return {
 		["RankPoint"] = 5,
 		["players"] = {
 			"Lunalabosse1234",   --Lunalabosse1234
-			"leroilion97",       --Cassoulet
 			"philippeVeil",      --SCP096
 			--"maxime26422",     --Poulu
 			--"Players",         --
