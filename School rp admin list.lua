@@ -52,7 +52,7 @@ return {
 			"Loupbleu_VoiceChat", --loubleu //NE PAS SUPPRIMER SAUF URGENCE
 
 			"noob_masteurs",      --sardine 		 
-			"BRocoliiYYTTB",      --chacha
+			--"BRocoliiYYTTB",      --chacha
 			"DembeleIsBack",      --Dembele 
 			--"ravenfield91",     --babaduck
 			"MAEKAN3000",         --Lord_Radde 
@@ -75,7 +75,7 @@ return {
 			"Lunalabosse1234",   --Lunalabosse1234
 			"philippeVeil",      --SCP096
 			--"maxime26422",     --Poulu
-			--"Players",         --
+			"BRocoliiYYTTB",     --chacha
 			--"Players",         --
 			--"Players",         --
 			--"Players",         -- 
