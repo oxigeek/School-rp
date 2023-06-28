@@ -52,7 +52,7 @@ return {
 			"Loupbleu_VoiceChat", --loubleu //NE PAS SUPPRIMER SAUF URGENCE
 
 			"noob_masteurs",      --sardine 		 
-			--"BRocoliiYYTTB",      --chacha
+			"Lunalabosse1234",     --Lunalabosse1234
 			"DembeleIsBack",      --Dembele 
 			--"ravenfield91",     --babaduck
 			"MAEKAN3000",         --Lord_Radde 
@@ -72,7 +72,7 @@ return {
 		["Name"] = "Modo",
 		["RankPoint"] = 5,
 		["players"] = {
-			"Lunalabosse1234",   --Lunalabosse1234
+			--"Players",         --
 			"philippeVeil",      --SCP096
 			--"maxime26422",     --Poulu
 			"BRocoliiYYTTB",     --chacha
