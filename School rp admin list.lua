@@ -18,10 +18,10 @@ return {
 		["RankPoint"] = 40,
 		["players"] = {
 			--Equipe de build
-			"mathis83game",      --Alcatraz
+			"mathis83game",      --ALT Alcatraz
 			"0V3RDRIVE_Dev",     --Mr.Cookie
 			"0VERDRIVE_Dev",     --ALT Cookie
-
+			"alcatraz_83",       --wesh
 		}
 	},
 
