@@ -64,6 +64,7 @@ return {
 			"Bad_meuf26",         --Pêche
 			"Adriax51100",        --ADRIAX
 			"leroilion97",       --Cassoulet
+			"philippeVeil",      --SCP096
 
 		}
 	},
@@ -73,7 +74,6 @@ return {
 		["RankPoint"] = 5,
 		["players"] = {
 			--"Players",         --
-			"philippeVeil",      --SCP096
 			--"maxime26422",     --Poulu
 			"BRocoliiYYTTB",     --chacha
 			--"Players",         --
