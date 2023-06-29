@@ -15,7 +15,7 @@ return {
 
 	{
 		["Name"] = "Gérant Staff",
-		["RankPoint"] = 50,
+		["RankPoint"] = 40,
 		["players"] = {
 			--Equipe de build
 			"mathis83game",      --Alcatraz
