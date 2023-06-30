@@ -1,7 +1,7 @@
 return {
 	{
 		["Name"] = "Fondateur",
-		["RankPoint"] = 40,
+		["RankPoint"] = 50 ,
 		["players"] = {
 			--Equipe de build
 			"zhaviaa212",         --Zhavia
@@ -15,7 +15,7 @@ return {
 
 	{
 		["Name"] = "Gérant Staff",
-		["RankPoint"] = 40,
+		["RankPoint"] = 45,
 		["players"] = {
 			--Equipe de build
 			"mathis83game",      --ALT Alcatraz
@@ -27,7 +27,7 @@ return {
 
 	{
 		["Name"] = "Sous Gérant Staff",
-		["RankPoint"] = 30,
+		["RankPoint"] = 40,
 		["players"] = {
 			--Equipe de build
 			--"mathis83game",      --mathis83game
