@@ -36,7 +36,7 @@ return {
 
 	{
 		["Name"] = "Super Admin",
-		["RankPoint"] = 25,
+		["RankPoint"] = 30,
 		["players"] = {
 			"Shaid66x", 	      --Couscous
 			"DelonAlain",         --SLAYK
