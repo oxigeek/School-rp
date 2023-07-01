@@ -9,7 +9,7 @@ return {
 			"oxigeek_youtube",    --Oxi_Fox
 			"Fegurie45",          --Fegurie45
 			"PetitBiscuit7890",   --PetitBiscuit7890
-
+			"mathis83game",      -- Alcatraz
 		}
 	},
 
@@ -18,10 +18,10 @@ return {
 		["RankPoint"] = 45,
 		["players"] = {
 			--Equipe de build
-			"mathis83game",      --ALT Alcatraz
-			"0V3RDRIVE_Dev",     --Mr.Cookie
+			--"Players",         --
+		        "0V3RDRIVE_Dev",     --Mr.Cookie
 			"0VERDRIVE_Dev",     --ALT Cookie
-			"Alcatraz_83",       --wesh
+			--"Alcatraz_83",       --wesh
 		}
 	},
 
