@@ -73,8 +73,8 @@ return {
 		["Name"] = "Modo",
 		["RankPoint"] = 5,
 		["players"] = {
-			"HyerToujoursBan",     --Hyers
-			--"BRocoliiYYTTB",   --chacha
+			"HyerToujoursBan",   --Hyers
+			"BRocoliiYYTTB",     --chacha
 			--"Players",         --
 			--"Players",         -- 
 			--"Players",         -- 
