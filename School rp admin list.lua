@@ -74,7 +74,7 @@ return {
 		["RankPoint"] = 5,
 		["players"] = {
 			"LeGrosFurry",         --harmonie (deuxieme compte secours)
-			--"maxime26422",     --Poulu
+			"HyerToujoursBan",     --Hyers
 			--"BRocoliiYYTTB",   --chacha
 			--"Players",         --
 			--"Players",         -- 
@@ -90,7 +90,7 @@ return {
 		["Name"] = "Developpeur",
 		["RankPoint"] = 3,
 		["players"] = {
-			"HyerToujoursBan",         --Hyers
+			--"HyerToujoursBan", --Hyers
 			--"Players",         --
 			--"Players",         -- 
 			--"Players",         --
