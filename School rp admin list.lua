@@ -21,7 +21,7 @@ return {
 			--"Players",         --
 		        "0V3RDRIVE_Dev",     --Mr.Cookie
 			"0VERDRIVE_Dev",     --ALT Cookie
-			--"Alcatraz_83",       --wesh
+			--"Players",         --
 		}
 	},
 
@@ -30,7 +30,7 @@ return {
 		["RankPoint"] = 40,
 		["players"] = {
 			--Equipe de build
-			--"mathis83game",      --mathis83game
+			--"Players",      --
 		}
 	},
 
