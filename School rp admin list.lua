@@ -77,7 +77,7 @@ return {
 			--"maxime26422",     --Poulu
 			--"BRocoliiYYTTB",   --chacha
 			--"Players",         --
-			--"@LeGrosFurry",    -- harmonie (deuxieme compte secours)
+			"@LeGrosFurry",    -- harmonie (deuxieme compte secours)
 			--"Players",         -- 
 			--"Players",         --
 			--"Players",         --
