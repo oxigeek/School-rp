@@ -67,7 +67,7 @@ return {
 			--"Azxcomiks13",        --Comiks 
 			--"ImLiiion",           --Seido
 			"Poulakisi",          --Mr.Poulaki
-			"Poulakiis",          --Mr.Poulaki alt
+			--"Poulakiis",          --Mr.Poulaki alt
 			--"MAEKAN3001",         --Lord_Radde 
 			--"Bad_meuf26",         --Pêche
 			--"Adriax51100",        --ADRIAX
