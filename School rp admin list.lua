@@ -20,7 +20,7 @@ return {
 			--"Players",         --
 		        --"0V3RDRIVE_Dev",     --Mr.Cookie
 			--"0VERDRIVE_Dev",     --ALT Cookie
-			"mathis83game",      -- Alcatraz
+			--"mathis83game",      -- Alcatraz
 			--"Players",         --
 		}
 	},
@@ -40,7 +40,7 @@ return {
 		["players"] = {
 			"Shaid66x", 	      --Couscous
 			"DelonAlain",         --SLAYK
-			"zorjfb",             --ethan
+			--"zorjfb",             --ethan
 		}
 	},
 
