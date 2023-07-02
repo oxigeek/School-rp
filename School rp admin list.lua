@@ -38,8 +38,6 @@ return {
 		["Name"] = "Super Admin",
 		["RankPoint"] = 30,
 		["players"] = {
-			"Shaid66x", 	      --Couscous
-			"DelonAlain",         --SLAYK
 			--"zorjfb",             --ethan
 		}
 	},
@@ -49,6 +47,16 @@ return {
 		["Name"] = "Admin",
 		["RankPoint"] = 20,
 		["players"] = {
+			
+		}
+	},
+
+	{
+		["Name"] = "Modo",
+		["RankPoint"] = 5,
+		["players"] = {
+			--"HyerToujoursBan",   --Hyers
+			"BRocoliiYYTTB",     --chacha
 			"Loupbleu_VoiceChat", --loubleu //NE PAS SUPPRIMER SAUF URGENCE
 
 			--"noob_masteurs",      --sardine 		 
@@ -65,16 +73,8 @@ return {
 			"Adriax51100",        --ADRIAX
 			"leroilion97",       --Cassoulet
 			"philippeVeil",      --SCP096
-
-		}
-	},
-
-	{
-		["Name"] = "Modo",
-		["RankPoint"] = 5,
-		["players"] = {
-			--"HyerToujoursBan",   --Hyers
-			"BRocoliiYYTTB",     --chacha
+			"Shaid66x", 	      --Couscous
+			"DelonAlain",         --SLAYK
 			--"Players",         --
 			--"Players",         -- 
 			--"Players",         -- 
