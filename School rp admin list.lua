@@ -40,7 +40,7 @@ return {
 		["players"] = {
 			"Shaid66x", 	      --Couscous
 			"DelonAlain",         --SLAYK
-			"izehfzeoi",          --Ethan Cally (compte secours)
+			"zorjfb",             --ethan
 		}
 	},
 
