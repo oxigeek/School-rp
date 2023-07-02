@@ -51,7 +51,7 @@ return {
 		["players"] = {
 			"Loupbleu_VoiceChat", --loubleu //NE PAS SUPPRIMER SAUF URGENCE
 
-			"noob_masteurs",      --sardine 		 
+			--"noob_masteurs",      --sardine 		 
 			"Lunalabosse1234",     --Lunalabosse1234
 			--"DembeleIsBack",      --Dembele 
 			"ravenfield91",     --babaduck
