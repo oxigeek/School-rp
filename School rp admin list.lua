@@ -18,8 +18,8 @@ return {
 		["players"] = {
 			--Equipe de build
 			--"Players",         --
-		        "0V3RDRIVE_Dev",     --Mr.Cookie
-			"0VERDRIVE_Dev",     --ALT Cookie
+		        --"0V3RDRIVE_Dev",     --Mr.Cookie
+			--"0VERDRIVE_Dev",     --ALT Cookie
 			"mathis83game",      -- Alcatraz
 			--"Players",         --
 		}
