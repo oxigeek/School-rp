@@ -9,7 +9,6 @@ return {
 			"oxigeek_youtube",    --Oxi_Fox
 			"Fegurie45",          --Fegurie45
 			"PetitBiscuit7890",   --PetitBiscuit7890
-			"mathis83game",      -- Alcatraz
 		}
 	},
 
@@ -21,6 +20,7 @@ return {
 			--"Players",         --
 		        "0V3RDRIVE_Dev",     --Mr.Cookie
 			"0VERDRIVE_Dev",     --ALT Cookie
+			"mathis83game",      -- Alcatraz
 			--"Players",         --
 		}
 	},
