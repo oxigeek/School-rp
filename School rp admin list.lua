@@ -41,6 +41,7 @@ return {
 			"Shaid66x", 	      --Couscous
 			"DelonAlain",         --SLAYK
 			"zorjfb",             --ethan
+			"ImLiiion",           --Seido
 		}
 	},
 
@@ -73,7 +74,6 @@ return {
 		["Name"] = "Modo",
 		["RankPoint"] = 5,
 		["players"] = {
-			"LeGrosFurry",         --harmonie (deuxieme compte secours)
 			"HyerToujoursBan",     --Hyers
 			--"BRocoliiYYTTB",   --chacha
 			--"Players",         --
