@@ -70,7 +70,7 @@ return {
 			"Poulakiis",          --Mr.Poulaki alt
 			"MAEKAN3001",         --Lord_Radde 
 			"Bad_meuf26",         --Pêche
-			"Adriax51100",        --ADRIAX
+			--"Adriax51100",        --ADRIAX
 			"leroilion97",       --Cassoulet
 			"philippeVeil",      --SCP096
 			"Shaid66x", 	      --Couscous
