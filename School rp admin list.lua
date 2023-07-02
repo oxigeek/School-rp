@@ -73,11 +73,11 @@ return {
 		["Name"] = "Modo",
 		["RankPoint"] = 5,
 		["players"] = {
-			--"Players",         --
+			"LeGrosFurry",         --harmonie (deuxieme compte secours)
 			--"maxime26422",     --Poulu
 			--"BRocoliiYYTTB",   --chacha
 			--"Players",         --
-			"LeGrosFurry",    -- harmonie (deuxieme compte secours)
+			--"Players",         -- 
 			--"Players",         -- 
 			--"Players",         --
 			--"Players",         --
