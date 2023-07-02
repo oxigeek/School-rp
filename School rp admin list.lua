@@ -41,7 +41,6 @@ return {
 			"Shaid66x", 	      --Couscous
 			"DelonAlain",         --SLAYK
 			"zorjfb",             --ethan
-			"ImLiiion",           --Seido
 		}
 	},
 
