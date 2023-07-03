@@ -49,7 +49,7 @@ return {
 		["players"] = {
 			"BRocoliiYYTTB",      --chacha
 			"Loupbleu_VoiceChat", --loubleu //NE PAS SUPPRIMER SAUF URGENCE
-			--"ravenfield91",       --babaduck
+			"ravenfield91",       --babaduck
 			"MAEKAN3000",         --Lord_Radde 
 			"MAEKAN3001",         --Lord_Radde alt
 			"Poulakisi",          --Mr.Poulaki
@@ -65,13 +65,16 @@ return {
 			--"Lunalabosse1234",    --Lunalabosse1234
 			--"Azxcomiks13",        --Comiks 
 			--"Poulakiis",          --Mr.Poulaki alt
-			--"Bad_meuf26",         --Pêche
 			--"Shaid66x", 	        --Couscous
 			--"HyerToujoursBan",    --Hyers
-			--"DelonAlain",         --SLAYK
+			
 			
 			-- a examiner
 			--"ImLiiion",           --Seido
+
+			-- dangeureux
+			--"Bad_meuf26",         --Pêche
+			--"DelonAlain",         --SLAYK
 			
 			--"Players",         --
 			--"Players",         -- 
