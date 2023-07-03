@@ -54,7 +54,6 @@ return {
 			"MAEKAN3001",         --Lord_Radde alt
 			"Poulakisi",          --Mr.Poulaki
 			"philippeVeil",       --SCP096
-			"DelonAlain",         --SLAYK
 			"Adriax51100",        --ADRIAX
 		}
 	},
@@ -69,7 +68,8 @@ return {
 			--"Bad_meuf26",         --Pêche
 			--"Shaid66x", 	        --Couscous
 			--"HyerToujoursBan",    --Hyers
-
+			--"DelonAlain",         --SLAYK
+			
 			-- a examiner
 			--"ImLiiion",           --Seido
 			
