@@ -54,6 +54,7 @@ return {
 			"Poulakisi",          --Mr.Poulaki
 			"MAEKAN3001",         --Lord_Radde 
 			"philippeVeil",      --SCP096
+			"DelonAlain",         --SLAYK
 		}
 	},
 
@@ -76,7 +77,7 @@ return {
 			--"leroilion97",       --Cassoulet
 			
 			--"Shaid66x", 	      --Couscous
-			--"DelonAlain",         --SLAYK
+			
 			--"Players",         --
 			--"Players",         -- 
 			--"Players",         -- 
