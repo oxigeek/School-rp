@@ -69,6 +69,9 @@ return {
 			--"Adriax51100",       --ADRIAX
 			--"Shaid66x", 	       --Couscous
 			--"HyerToujoursBan",   --Hyers
+
+			-- a examiner
+			--"ImLiiion",           --Seido
 			
 			--"Players",         --
 			--"Players",         -- 
