@@ -38,7 +38,7 @@ return {
 		["Name"] = "Super Admin",
 		["RankPoint"] = 30,
 		["players"] = {
-			--"zorjfb",             --ethan
+			
 		}
 	},
 
@@ -62,21 +62,12 @@ return {
 		["Name"] = "Modo",
 		["RankPoint"] = 5,
 		["players"] = {
-			--"HyerToujoursBan",   --Hyers
-	 
 			--"Lunalabosse1234",     --Lunalabosse1234
-			--"DembeleIsBack",      --Dembele 
-			
 			--"Azxcomiks13",        --Comiks 
-			--"ImLiiion",           --Seido
-			
 			--"Poulakiis",          --Mr.Poulaki alt
-			
 			--"Bad_meuf26",         --Pêche
-			--"Adriax51100",        --ADRIAX
-			--"leroilion97",       --Cassoulet
-			
-			--"Shaid66x", 	      --Couscous
+			--"Adriax51100",       --ADRIAX
+			--"Shaid66x", 	       --Couscous
 			
 			--"Players",         --
 			--"Players",         -- 
@@ -86,7 +77,13 @@ return {
 			--"Players",         --
 			--"Players",         --
 
-			--"noob_masteurs",      --sardine 	
+			--"noob_masteurs",     --sardine 	
+			--"HyerToujoursBan",   --Hyers
+			--"ImLiiion",           --Seido
+			--"leroilion97",       --Cassoulet
+			--"DembeleIsBack",     --Dembele 
+			--"zorjfb",            --ethan
+			--"HyerToujoursBan",   --Hyers
 		}
 	},
 
@@ -94,7 +91,7 @@ return {
 		["Name"] = "Developpeur",
 		["RankPoint"] = 3,
 		["players"] = {
-			--"HyerToujoursBan", --Hyers
+			
 			--"Players",         --
 			--"Players",         -- 
 			--"Players",         --
