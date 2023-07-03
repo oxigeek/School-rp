@@ -49,12 +49,13 @@ return {
 		["players"] = {
 			"BRocoliiYYTTB",      --chacha
 			"Loupbleu_VoiceChat", --loubleu //NE PAS SUPPRIMER SAUF URGENCE
-			"ravenfield91",       --babaduck
+			--"ravenfield91",       --babaduck
 			"MAEKAN3000",         --Lord_Radde 
 			"MAEKAN3001",         --Lord_Radde alt
 			"Poulakisi",          --Mr.Poulaki
 			"philippeVeil",       --SCP096
 			"DelonAlain",         --SLAYK
+			"Adriax51100",        --ADRIAX
 		}
 	},
 
@@ -62,13 +63,12 @@ return {
 		["Name"] = "Modo",
 		["RankPoint"] = 5,
 		["players"] = {
-			--"Lunalabosse1234",     --Lunalabosse1234
+			--"Lunalabosse1234",    --Lunalabosse1234
 			--"Azxcomiks13",        --Comiks 
 			--"Poulakiis",          --Mr.Poulaki alt
 			--"Bad_meuf26",         --Pêche
-			--"Adriax51100",       --ADRIAX
-			--"Shaid66x", 	       --Couscous
-			--"HyerToujoursBan",   --Hyers
+			--"Shaid66x", 	        --Couscous
+			--"HyerToujoursBan",    --Hyers
 
 			-- a examiner
 			--"ImLiiion",           --Seido
