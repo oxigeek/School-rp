@@ -51,8 +51,8 @@ return {
 			"Loupbleu_VoiceChat", --loubleu //NE PAS SUPPRIMER SAUF URGENCE
 			"ravenfield91",     --babaduck
 			"MAEKAN3000",         --Lord_Radde 
+			"MAEKAN3001",         --Lord_Radde alt
 			"Poulakisi",          --Mr.Poulaki
-			"MAEKAN3001",         --Lord_Radde 
 			"philippeVeil",      --SCP096
 			"DelonAlain",         --SLAYK
 		}
