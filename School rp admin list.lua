@@ -58,8 +58,7 @@ return {
 			--"HyerToujoursBan",   --Hyers
 			"BRocoliiYYTTB",     --chacha
 			"Loupbleu_VoiceChat", --loubleu //NE PAS SUPPRIMER SAUF URGENCE
-
-			--"noob_masteurs",      --sardine 		 
+	 
 			--"Lunalabosse1234",     --Lunalabosse1234
 			--"DembeleIsBack",      --Dembele 
 			"ravenfield91",     --babaduck
@@ -82,6 +81,8 @@ return {
 			--"Players",         --
 			--"Players",         --
 			--"Players",         --
+
+			--"noob_masteurs",      --sardine 	
 		}
 	},
 
