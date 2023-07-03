@@ -47,7 +47,13 @@ return {
 		["Name"] = "Admin",
 		["RankPoint"] = 20,
 		["players"] = {
-			
+			"BRocoliiYYTTB",     --chacha
+			"Loupbleu_VoiceChat", --loubleu //NE PAS SUPPRIMER SAUF URGENCE
+			"ravenfield91",     --babaduck
+			"MAEKAN3000",         --Lord_Radde 
+			"Poulakisi",          --Mr.Poulaki
+			"MAEKAN3001",         --Lord_Radde 
+			"philippeVeil",      --SCP096
 		}
 	},
 
@@ -56,22 +62,19 @@ return {
 		["RankPoint"] = 5,
 		["players"] = {
 			--"HyerToujoursBan",   --Hyers
-			"BRocoliiYYTTB",     --chacha
-			"Loupbleu_VoiceChat", --loubleu //NE PAS SUPPRIMER SAUF URGENCE
 	 
 			--"Lunalabosse1234",     --Lunalabosse1234
 			--"DembeleIsBack",      --Dembele 
-			"ravenfield91",     --babaduck
-			--"MAEKAN3000",         --Lord_Radde 
+			
 			--"Azxcomiks13",        --Comiks 
 			--"ImLiiion",           --Seido
-			"Poulakisi",          --Mr.Poulaki
+			
 			--"Poulakiis",          --Mr.Poulaki alt
-			--"MAEKAN3001",         --Lord_Radde 
+			
 			--"Bad_meuf26",         --Pêche
 			--"Adriax51100",        --ADRIAX
 			--"leroilion97",       --Cassoulet
-			--"philippeVeil",      --SCP096
+			
 			--"Shaid66x", 	      --Couscous
 			--"DelonAlain",         --SLAYK
 			--"Players",         --
