@@ -68,6 +68,7 @@ return {
 			--"Bad_meuf26",         --Pêche
 			--"Adriax51100",       --ADRIAX
 			--"Shaid66x", 	       --Couscous
+			--"HyerToujoursBan",   --Hyers
 			
 			--"Players",         --
 			--"Players",         -- 
@@ -78,12 +79,9 @@ return {
 			--"Players",         --
 
 			--"noob_masteurs",     --sardine 	
-			--"HyerToujoursBan",   --Hyers
-			--"ImLiiion",           --Seido
 			--"leroilion97",       --Cassoulet
 			--"DembeleIsBack",     --Dembele 
 			--"zorjfb",            --ethan
-			--"HyerToujoursBan",   --Hyers
 		}
 	},
 
