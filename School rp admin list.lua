@@ -55,6 +55,7 @@ return {
 			"Poulakisi",          --Mr.Poulaki
 			"philippeVeil",       --SCP096
 			"Adriax51100",        --ADRIAX
+			"Lunalabosse1234",    --Lunalabosse1234
 		}
 	},
 
@@ -62,7 +63,7 @@ return {
 		["Name"] = "Modo",
 		["RankPoint"] = 5,
 		["players"] = {
-			--"Lunalabosse1234",    --Lunalabosse1234
+			
 			--"Azxcomiks13",        --Comiks 
 			--"Poulakiis",          --Mr.Poulaki alt
 			--"Shaid66x", 	        --Couscous
