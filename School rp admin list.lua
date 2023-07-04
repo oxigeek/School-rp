@@ -56,6 +56,7 @@ return {
 			"philippeVeil",       --SCP096
 			"Adriax51100",        --ADRIAX
 			"Lunalabosse1234",    --Lunalabosse1234
+			"DelonAlain",         --SLAYK
 		}
 	},
 
@@ -75,7 +76,6 @@ return {
 
 			-- dangeureux
 			--"Bad_meuf26",         --Pêche
-			--"DelonAlain",         --SLAYK
 			
 			--"Players",         --
 			--"Players",         -- 
