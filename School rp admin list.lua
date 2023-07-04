@@ -57,6 +57,7 @@ return {
 			"Adriax51100",        --ADRIAX
 			"Lunalabosse1234",    --Lunalabosse1234
 			"DelonAlain",         --SLAYK
+			"Poulakiis",          --Mr.Poulaki alt
 		}
 	},
 
@@ -66,7 +67,7 @@ return {
 		["players"] = {
 			
 			--"Azxcomiks13",        --Comiks 
-			--"Poulakiis",          --Mr.Poulaki alt
+			
 			--"Shaid66x", 	        --Couscous
 			--"HyerToujoursBan",    --Hyers
 			
