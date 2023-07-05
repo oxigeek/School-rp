@@ -59,6 +59,7 @@ return {
 			"Lunalabosse1234",    --Lunalabosse1234
 			"DelonAlain",         --SLAYK
 			"Poulakiis",          --Mr.Poulaki alt
+			"Shaid66x", 	        --Couscous
 		}
 	},
 
@@ -69,7 +70,7 @@ return {
 			
 			--"Azxcomiks13",        --Comiks 
 			
-			--"Shaid66x", 	        --Couscous
+			
 			--"HyerToujoursBan",    --Hyers
 			
 			
