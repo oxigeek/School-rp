@@ -23,6 +23,7 @@ return {
 			--"0VERDRIVE_Dev",     --ALT Cookie
 			--"mathis83game",      -- Alcatraz
 			--"Players",         --
+			"Poulakisi",          --Mr.Poulaki
 		}
 	},
 
@@ -53,7 +54,6 @@ return {
 			"ravenfield91",       --babaduck
 			"MAEKAN3000",         --Lord_Radde 
 			"MAEKAN3001",         --Lord_Radde alt
-			"Poulakisi",          --Mr.Poulaki
 			"philippeVeil",       --SCP096
 			"Adriax51100",        --ADRIAX
 			"Lunalabosse1234",    --Lunalabosse1234
