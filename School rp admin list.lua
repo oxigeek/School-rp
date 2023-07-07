@@ -59,7 +59,8 @@ return {
 			"Lunalabosse1234",    --Lunalabosse1234
 			"DelonAlain",         --SLAYK
 			"Poulakiis",          --Mr.Poulaki alt
-			"Shaid66x", 	        --Couscous
+			"Shaid66x", 	      --Couscous
+			"Azxcomiks13",        --Comiks 
 		}
 	},
 
@@ -68,7 +69,7 @@ return {
 		["RankPoint"] = 5,
 		["players"] = {
 			
-			--"Azxcomiks13",        --Comiks 
+			
 			
 			
 			--"HyerToujoursBan",    --Hyers
