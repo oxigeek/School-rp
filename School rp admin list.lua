@@ -51,7 +51,7 @@ return {
 		["players"] = {
 			"BRocoliiYYTTB",      --chacha
 			"Loupbleu_VoiceChat", --loubleu //NE PAS SUPPRIMER SAUF URGENCE
-			"ravenfield91",       --babaduck
+			--"ravenfield91",       --babaduck
 			"MAEKAN3000",         --Lord_Radde 
 			"MAEKAN3001",         --Lord_Radde alt
 			"philippeVeil",       --SCP096
