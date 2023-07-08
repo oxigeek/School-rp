@@ -56,7 +56,7 @@ return {
 			"MAEKAN3001",         --Lord_Radde alt
 			"philippeVeil",       --SCP096
 			"Adriax51100",        --ADRIAX
-			"Lunalabosse1234",    --Lunalabosse1234
+			--"Lunalabosse1234",    --Lunalabosse1234
 			"DelonAlain",         --SLAYK
 			"Poulakiis",          --Mr.Poulaki alt
 			"Shaid66x", 	      --Couscous
