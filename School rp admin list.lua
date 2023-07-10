@@ -4,12 +4,12 @@ return {
 		["RankPoint"] = 50 ,
 		["players"] = {
 			--Equipe de build
-			"zhaviaa212",         --Zhavia
-			"Zhavia_secour",      --Zhavia
+			--"zhaviaa212",         --Zhavia
+			--"Zhavia_secour",      --Zhavia
 			"oxigeek_youtube",    --Oxi_Fox
 			"0xiFox",             --Oxi_Fox alt
-			"Fegurie45",          --Fegurie45
-			"PetitBiscuit7890",   --PetitBiscuit7890
+			--"Fegurie45",          --Fegurie45
+			--"PetitBiscuit7890",   --PetitBiscuit7890
 		}
 	},
 
@@ -23,7 +23,7 @@ return {
 			--"0VERDRIVE_Dev",     --ALT Cookie
 			--"mathis83game",      -- Alcatraz
 			--"Players",         --
-			"Poulakisi",          --Mr.Poulaki
+			--"Poulakisi",          --Mr.Poulaki
 		}
 	},
 
@@ -49,19 +49,19 @@ return {
 		["Name"] = "Admin",
 		["RankPoint"] = 20,
 		["players"] = {
-			"BRocoliiYYTTB",      --chacha
-			"Loupbleu_VoiceChat", --loubleu //NE PAS SUPPRIMER SAUF URGENCE
+			--"BRocoliiYYTTB",      --chacha
+			--"Loupbleu_VoiceChat", --loubleu //NE PAS SUPPRIMER SAUF URGENCE
 			--"ravenfield91",       --babaduck
-			"MAEKAN3000",         --Lord_Radde 
-			"MAEKAN3001",         --Lord_Radde alt
-			"philippeVeil",       --SCP096
-			"Adriax51100",        --ADRIAX
+			--"MAEKAN3000",         --Lord_Radde 
+			--"MAEKAN3001",         --Lord_Radde alt
+			--"philippeVeil",       --SCP096
+			--"Adriax51100",        --ADRIAX
 			--"Lunalabosse1234",    --Lunalabosse1234
-			"DelonAlain",         --SLAYK
-			"Poulakiis",          --Mr.Poulaki alt
-			"Shaid66x", 	      --Couscous
-			"Azxcomiks13",        --Comiks 
-			"Oshibanane"
+			--"DelonAlain",         --SLAYK
+			--"Poulakiis",          --Mr.Poulaki alt
+			--"Shaid66x", 	      --Couscous
+			--"Azxcomiks13",        --Comiks 
+			--"Oshibanane"
 		}
 	},
 
