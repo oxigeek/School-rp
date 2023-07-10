@@ -61,6 +61,7 @@ return {
 			"Poulakiis",          --Mr.Poulaki alt
 			"Shaid66x", 	      --Couscous
 			"Azxcomiks13",        --Comiks 
+			"Oshibanane"
 		}
 	},
 
