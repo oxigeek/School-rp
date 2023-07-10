@@ -6,8 +6,8 @@ return {
 			--Equipe de build
 			--"zhaviaa212",         --Zhavia
 			--"Zhavia_secour",      --Zhavia
-			"oxigeek_youtube",    --Oxi_Fox
-			"0xiFox",             --Oxi_Fox alt
+			--"oxigeek_youtube",    --Oxi_Fox
+			--"0xiFox",             --Oxi_Fox alt
 			--"Fegurie45",          --Fegurie45
 			--"PetitBiscuit7890",   --PetitBiscuit7890
 		}
