@@ -4,12 +4,8 @@ return {
 		["RankPoint"] = 50 ,
 		["players"] = {
 			--Equipe de build
-			--"zhaviaa212",         --Zhavia
-			--"Zhavia_secour",      --Zhavia
-			--"oxigeek_youtube",    --Oxi_Fox
-			--"0xiFox",             --Oxi_Fox alt
-			--"Fegurie45",          --Fegurie45
-			--"PetitBiscuit7890",   --PetitBiscuit7890
+			"oxigeek_youtube",    --Oxi_Fox
+			"0xiFox",             --Oxi_Fox alt
 		}
 	},
 
@@ -19,11 +15,7 @@ return {
 		["players"] = {
 			--Equipe de build
 			--"Players",         --
-		        --"0V3RDRIVE_Dev",     --Mr.Cookie
-			--"0VERDRIVE_Dev",     --ALT Cookie
-			--"mathis83game",      -- Alcatraz
-			--"Players",         --
-			--"Poulakisi",          --Mr.Poulaki
+			"Poulakisi",          --Mr.Poulaki
 		}
 	},
 
@@ -49,19 +41,7 @@ return {
 		["Name"] = "Admin",
 		["RankPoint"] = 20,
 		["players"] = {
-			--"BRocoliiYYTTB",      --chacha
-			--"Loupbleu_VoiceChat", --loubleu //NE PAS SUPPRIMER SAUF URGENCE
-			--"ravenfield91",       --babaduck
-			--"MAEKAN3000",         --Lord_Radde 
-			--"MAEKAN3001",         --Lord_Radde alt
-			--"philippeVeil",       --SCP096
-			--"Adriax51100",        --ADRIAX
-			--"Lunalabosse1234",    --Lunalabosse1234
-			--"DelonAlain",         --SLAYK
-			--"Poulakiis",          --Mr.Poulaki alt
-			--"Shaid66x", 	      --Couscous
-			--"Azxcomiks13",        --Comiks 
-			--"Oshibanane"
+
 		}
 	},
 
@@ -70,30 +50,6 @@ return {
 		["RankPoint"] = 5,
 		["players"] = {
 			
-			
-			
-			
-			--"HyerToujoursBan",    --Hyers
-			
-			
-			-- a examiner
-			--"ImLiiion",           --Seido
-
-			-- dangeureux
-			--"Bad_meuf26",         --Pêche
-			
-			--"Players",         --
-			--"Players",         -- 
-			--"Players",         -- 
-			--"Players",         --
-			--"Players",         --
-			--"Players",         --
-			--"Players",         --
-
-			--"noob_masteurs",     --sardine 	
-			--"leroilion97",       --Cassoulet
-			--"DembeleIsBack",     --Dembele 
-			--"zorjfb",            --ethan
 		}
 	},
 
