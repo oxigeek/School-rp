@@ -41,7 +41,7 @@ return {
 		["Name"] = "Admin",
 		["RankPoint"] = 20,
 		["players"] = {
-
+			"AdvanS7evn",
 		}
 	},
 
