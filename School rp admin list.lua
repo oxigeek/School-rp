@@ -46,10 +46,20 @@ return {
 	},
 
 	{
-		["Name"] = "Modo",
-		["RankPoint"] = 5,
+		["Name"] = "Modérateur",
+		["RankPoint"] = 15,
 		["players"] = {
 			
+		}
+	},
+
+	{
+		["Name"] = "Modérateur en test",
+		["RankPoint"] = 12,
+		["players"] = {
+			"Nako_28",
+			"AdvanS7evn",
+			"Paradise_III",
 		}
 	},
 
