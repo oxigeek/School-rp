@@ -16,6 +16,7 @@ return {
 			--Equipe de build
 			--"Players",         --
 			"Poulakisi",          --Mr.Poulaki
+			"Loupbleu_VoiceChat", --Oxi alt 
 		}
 	},
 
