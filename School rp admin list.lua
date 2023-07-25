@@ -61,7 +61,7 @@ return {
 		["players"] = {
 			"Nako_28",
 			"AdvanS7evn",
-			"Paradise_III",
+			--"Paradise_III",
 			"RaionO_O",
 		}
 	},
