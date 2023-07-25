@@ -62,6 +62,7 @@ return {
 			"Nako_28",
 			"AdvanS7evn",
 			"Paradise_III",
+			"RaionO_O",
 		}
 	},
 
