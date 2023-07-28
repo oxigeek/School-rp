@@ -113,6 +113,7 @@ return {
 		["Name"] = "",
 		["RankPoint"] = 3,
 		["players"] = {
+			"Sud0craft",
 			--"Mellll_ek",
 			--"Players",         --
 			--"Players",         -- 
