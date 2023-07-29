@@ -59,10 +59,11 @@ return {
 		["Name"] = "Modérateur en test",
 		["RankPoint"] = 12,
 		["players"] = {
-			"Nako_28",       --Boubacar
-			"AdvanS7evn",    --Advan
+			"Nako_28",             --Boubacar
+			"AdvanS7evn",          --Advan
 			--"Paradise_III",
-			"RaionO_O",      --Raion
+			"RaionO_O",            --Raion
+			"Loupbleu_VoiceChat",  --Staff secours
 		}
 	},
 
