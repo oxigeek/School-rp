@@ -1,7 +1,7 @@
 return {
 	{
 		["Name"] = "Fondateur",
-		["RankPoint"] = 50 ,
+		["RankPoint"] = 55 ,
 		["players"] = {
 			--Equipe de build
 			"oxigeek_youtube",    --Oxi_Fox
@@ -11,7 +11,7 @@ return {
 
 	{
 		["Name"] = "Gérant Staff",
-		["RankPoint"] = 45,
+		["RankPoint"] = 50,
 		["players"] = {
 			--Equipe de build
 			--"Players",         --
