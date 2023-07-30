@@ -64,6 +64,8 @@ return {
 			--"Paradise_III",
 			"RaionO_O",            --Raion
 			"Loupbleu_VoiceChat",  --Staff secours
+			"MAEKAN3000",          --Busier
+			"Mellll_Ek",           --Mell
 		}
 	},
 
