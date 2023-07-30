@@ -65,7 +65,7 @@ return {
 			"RaionO_O",            --Raion
 			"Loupbleu_VoiceChat",  --Staff secours
 			"MAEKAN3000",          --Busier
-			"Mellll_Ek",           --Mell
+			"Mellll_ek",           --Mell
 		}
 	},
 
