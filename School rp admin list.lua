@@ -66,6 +66,7 @@ return {
 			"Loupbleu_VoiceChat",  --Staff secours
 			"MAEKAN3000",          --Busier
 			"Mellll_ek",           --Mell
+			"MAEKAN3001",          --Biser 
 		}
 	},
 
