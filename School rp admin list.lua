@@ -63,7 +63,7 @@ return {
 			"AdvanS7evn",          --Advan
 			--"Paradise_III",
 			"RaionO_O",            --Raion
-			"Loupbleu_VoiceChat",  --Staff secours
+			--"Loupbleu_VoiceChat",  --Staff secours
 			"MAEKAN3000",          --Busier
 			--"Mellll_ek",           --Mell
 			"MAEKAN3001",          --Biser 
