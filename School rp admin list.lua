@@ -17,7 +17,7 @@ return {
 			--"Players",         --
 			"Poulakisi",          --Mr.Poulaki
 			"Poulakiis",          --Mr.Poulaki
-			"Loupbleu_VoiceChat", --Oxi alt 
+			--"Loupbleu_VoiceChat", --Oxi alt 
 		}
 	},
 
