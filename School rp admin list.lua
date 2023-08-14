@@ -67,6 +67,9 @@ return {
 			"MAEKAN3000",          --Busier
 			--"Mellll_ek",           --Mell
 			"MAEKAN3001",          --Biser 
+			"ALEXENDRE_192",       --GATOR
+			"AlloBassemOeCgreg",   --VINCENT CANICULE
+			"bad_meuf26",          --Peche
 		}
 	},
 
