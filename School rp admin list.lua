@@ -71,7 +71,7 @@ return {
 			"MAEKAN3001",          --Biser 
 			"ALEXENDRE_192",       --GATOR
 			"AlloBassemOeCgreg",   --VINCENT CANICULE
-			"bad_meuf26",          --Peche
+			"Bad_meuf26",          --Peche
 		}
 	},
 
