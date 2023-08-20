@@ -41,9 +41,19 @@ return {
 
 	{
 		["Name"] = "Admin",
+		["RankPoint"] = 25,
+		["players"] = {
+			--"AdvanS7evn",
+		}
+	},
+
+	
+	{
+		["Name"] = "Modérateur Senior",
 		["RankPoint"] = 20,
 		["players"] = {
 			--"AdvanS7evn",
+			"RaionO_O",            --Vic
 		}
 	},
 
@@ -52,8 +62,8 @@ return {
 		["RankPoint"] = 15,
 		["players"] = {
 			"AdvanS7evn",          --Advan
-			"RaionO_O",            --Vic
 			"Nako_28",             --Boubacar Nawel
+			"AlloBassemOeCgreg",   --VINCENT CANICULE
 		}
 	},
 
@@ -67,11 +77,14 @@ return {
 			
 			--"Loupbleu_VoiceChat",  --Staff secours
 			"MAEKAN3000",          --Busier
-			--"Mellll_ek",           --Mell
+			--"Mellll_ek",         --Mell
 			"MAEKAN3001",          --Biser 
 			"ALEXENDRE_192",       --GATOR
-			"AlloBassemOeCgreg",   --VINCENT CANICULE
 			"Bad_meuf26",          --Peche
+			"Oshibanane",          --Oshi
+			"Msne76",              --MAE
+			"epeistenoir9",        --Landers
+			"MechantMeusieu",      --Fripouille
 		}
 	},
 
