@@ -81,6 +81,7 @@ return {
 			"ALEXENDRE_192",       --GATOR
 			"Bad_meuf26",          --Peche
 			"Oshibanane",          --Oshi
+			"encoreban54895",      -- Oshi
 			"Msne76",              --MAE
 			"epeistenoir9",        --Landers
 			"S4turne_lly",         --Landers alt
