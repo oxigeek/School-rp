@@ -52,7 +52,6 @@ return {
 		["Name"] = "Modérateur Senior",
 		["RankPoint"] = 20,
 		["players"] = {
-			--"AdvanS7evn",
 			"RaionO_O",            --Vic
 		}
 	},
