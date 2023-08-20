@@ -83,6 +83,7 @@ return {
 			"Oshibanane",          --Oshi
 			"Msne76",              --MAE
 			"epeistenoir9",        --Landers
+			"S4turne_lly",         --Landers alt
 			"MechantMeusieu",      --Fripouille
 		}
 	},
