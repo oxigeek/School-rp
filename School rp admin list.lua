@@ -52,7 +52,7 @@ return {
 		["Name"] = "Modérateur Senior",
 		["RankPoint"] = 20,
 		["players"] = {
-			"RaionO_O",            --Vic
+			--"RaionO_O",            --Vic
 		}
 	},
 
@@ -84,7 +84,7 @@ return {
 			--"encoreban54895",      -- Oshi
 			"Msne76",              --MAE
 			"epeistenoir9",        --Landers
-			"S4turne_lly",         --Landers alt
+			--"S4turne_lly",         --Landers alt
 			"MechantMeusieu",      --Fripouille
 		}
 	},
