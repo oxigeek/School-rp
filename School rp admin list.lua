@@ -61,7 +61,7 @@ return {
 		["RankPoint"] = 15,
 		["players"] = {
 			--"AdvanS7evn",          --Advan
-			"Nako_28",             --Boubacar Nawel
+			--"Nako_28",             --Boubacar Nawel
 			"AlloBassemOeCgreg",   --VINCENT CANICULE
 		}
 	},
