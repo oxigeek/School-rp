@@ -60,7 +60,7 @@ return {
 		["Name"] = "Modérateur",
 		["RankPoint"] = 15,
 		["players"] = {
-			"AdvanS7evn",          --Advan
+			--"AdvanS7evn",          --Advan
 			"Nako_28",             --Boubacar Nawel
 			"AlloBassemOeCgreg",   --VINCENT CANICULE
 		}
@@ -79,7 +79,7 @@ return {
 			--"Mellll_ek",         --Mell
 			"MAEKAN3001",          --Biser 
 			"ALEXENDRE_192",       --GATOR
-			"Bad_meuf26",          --Peche
+			--"Bad_meuf26",          --Peche
 			"Oshibanane",          --Oshi
 			"encoreban54895",      -- Oshi
 			"Msne76",              --MAE
