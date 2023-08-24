@@ -63,6 +63,8 @@ return {
 			--"AdvanS7evn",          --Advan
 			--"Nako_28",             --Boubacar Nawel
 			"AlloBassemOeCgreg",   --VINCENT CANICULE
+			"Msne76",              --MAE
+			"ALEXENDRE_192",       --GATOR
 		}
 	},
 
@@ -78,11 +80,11 @@ return {
 			"MAEKAN3000",          --Busier
 			--"Mellll_ek",         --Mell
 			"MAEKAN3001",          --Biser 
-			"ALEXENDRE_192",       --GATOR
+			
 			--"Bad_meuf26",          --Peche
 			"Oshibanane",          --Oshi
 			--"encoreban54895",      -- Oshi
-			"Msne76",              --MAE
+			
 			"epeistenoir9",        --Landers
 			--"S4turne_lly",         --Landers alt
 			"MechantMeusieu",      --Fripouille
