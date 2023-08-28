@@ -53,6 +53,8 @@ return {
 		["RankPoint"] = 20,
 		["players"] = {
 			--"RaionO_O",            --Vic
+			"ALEXENDRE_192",       --GATOR
+			"alexendre192", --GATOR ALT
 		}
 	},
 
@@ -65,8 +67,9 @@ return {
 			"AlloBassemOeCgreg",   --VINCENT CANICULE
 			"Msne76",              --MAE
 			"youmielol",              --MAE alt
-			"ALEXENDRE_192",       --GATOR
-			"alexendre192", --GATOR ALT
+			"epeistenoir9",        --Landers
+			--"S4turne_lly",         --Landers alt
+			"MechantMeusieu",      --Fripouille
 		}
 	},
 
@@ -87,9 +90,7 @@ return {
 			"Oshibanane",          --Oshi
 			--"encoreban54895",      -- Oshi
 			
-			"epeistenoir9",        --Landers
-			--"S4turne_lly",         --Landers alt
-			"MechantMeusieu",      --Fripouille
+			
 		}
 	},
 
