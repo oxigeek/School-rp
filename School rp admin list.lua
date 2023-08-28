@@ -66,6 +66,7 @@ return {
 			"Msne76",              --MAE
 			"youmielol",              --MAE alt
 			"ALEXENDRE_192",       --GATOR
+			"alexendre192", --GATOR ALT
 		}
 	},
 
