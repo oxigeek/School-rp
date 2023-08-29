@@ -70,6 +70,8 @@ return {
 			"epeistenoir9",        --Landers
 			--"S4turne_lly",         --Landers alt
 			"MechantMeusieu",      --Fripouille
+			"MAEKAN3000",          --Busier
+			"MAEKAN3001",          --Biser 
 		}
 	},
 
@@ -82,9 +84,8 @@ return {
 			--"Paradise_III",
 			
 			--"Loupbleu_VoiceChat",  --Staff secours
-			"MAEKAN3000",          --Busier
 			--"Mellll_ek",         --Mell
-			"MAEKAN3001",          --Biser 
+
 			
 			--"Bad_meuf26",          --Peche
 			"Oshibanane",          --Oshi
