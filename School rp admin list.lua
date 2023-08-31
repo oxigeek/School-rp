@@ -144,6 +144,7 @@ return {
 		["RankPoint"] = 3,
 		["players"] = {
 			"Sud0craft",
+			"TouyaShy",
 			--"Mellll_ek",
 			--"Players",         --
 			--"Players",         -- 
