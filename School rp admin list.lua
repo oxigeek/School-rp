@@ -140,7 +140,7 @@ return {
 	},
 
 	{
-		["Name"] = "",
+		["Name"] = "VIP",
 		["RankPoint"] = 3,
 		["players"] = {
 			"Sud0craft",
