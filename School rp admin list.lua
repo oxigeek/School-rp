@@ -141,7 +141,7 @@ return {
 
 	{
 		["Name"] = "VIP",
-		["RankPoint"] = 3,
+		["RankPoint"] = 10,
 		["players"] = {
 			"Sud0craft",
 			"TouyaShy",
