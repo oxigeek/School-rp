@@ -5,7 +5,7 @@ return {
 		["players"] = {
 			--Equipe de build
 			"oxigeek_youtube",    --Oxi_Fox
-			--"0xiFox",             --Oxi_Fox alt
+			"0xiFox",             --Oxi_Fox alt
 		}
 	},
 
