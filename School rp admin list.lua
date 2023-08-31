@@ -90,6 +90,7 @@ return {
 			--"Bad_meuf26",          --Peche
 			"Oshibanane",          --Oshi
 			--"encoreban54895",      -- Oshi
+			"Azxcomiks13",
 			
 			
 		}
