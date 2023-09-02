@@ -32,7 +32,7 @@ return {
 
 	{
 		["Name"] = "Super Admin",
-		["RankPoint"] = 30,
+		["RankPoint"] = 35,
 		["players"] = {
 			
 		}
@@ -41,9 +41,11 @@ return {
 
 	{
 		["Name"] = "Admin",
-		["RankPoint"] = 25,
+		["RankPoint"] = 30,
 		["players"] = {
-			--"AdvanS7evn",
+			--"AdvanS7evn",            --Advan
+			"ALEXENDRE_192",         --GATOR
+			"alexendre192",          --GATOR ALT
 		}
 	},
 
@@ -53,8 +55,8 @@ return {
 		["RankPoint"] = 20,
 		["players"] = {
 			--"RaionO_O",            --Vic
-			"ALEXENDRE_192",       --GATOR
-			"alexendre192", --GATOR ALT
+			"Msne76",              --MAE
+			"youmielol",           --MAE alt
 		}
 	},
 
@@ -62,16 +64,14 @@ return {
 		["Name"] = "Modérateur",
 		["RankPoint"] = 15,
 		["players"] = {
-			--"AdvanS7evn",          --Advan
-			--"Nako_28",             --Boubacar Nawel
-			--"AlloBassemOeCgreg",   --VINCENT CANICULE
-			"Msne76",              --MAE
-			"youmielol",              --MAE alt
-			"epeistenoir9",        --Landers
-			--"S4turne_lly",         --Landers alt
-			"MechantMeusieu",      --Fripouille
-			"MAEKAN3000",          --Busier
-			"MAEKAN3001",          --Biser 
+			--"AdvanS7evn",            --Advan
+			--"Nako_28",               --Boubacar Nawel
+			--"AlloBassemOeCgreg",     --VINCENT CANICULE
+			"epeistenoir9",          --Landers
+			--"S4turne_lly",           --Landers alt
+			"MechantMeusieu",        --Fripouille
+			"MAEKAN3000",            --Busier
+			"MAEKAN3001",            --Biser 
 		}
 	},
 
@@ -84,7 +84,7 @@ return {
 			--"Paradise_III",
 			
 			--"Loupbleu_VoiceChat",  --Staff secours
-			--"Mellll_ek",         --Mell
+			--"Mellll_ek",           --Mell
 
 			
 			--"Bad_meuf26",          --Peche
