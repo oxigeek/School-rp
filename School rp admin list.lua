@@ -64,7 +64,7 @@ return {
 		["players"] = {
 			--"AdvanS7evn",          --Advan
 			--"Nako_28",             --Boubacar Nawel
-			"AlloBassemOeCgreg",   --VINCENT CANICULE
+			--"AlloBassemOeCgreg",   --VINCENT CANICULE
 			"Msne76",              --MAE
 			"youmielol",              --MAE alt
 			"epeistenoir9",        --Landers
