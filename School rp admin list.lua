@@ -143,11 +143,11 @@ return {
 		},
 
 		{
-			["Name"] = "VIP",
-			["RankPoint"] = 10,
+			["Name"] = "",
+			["RankPoint"] = 3,
 			["players"] = {
 				"Sud0craft",
-				"TouyaShy",
+				--"TouyaShy",
 				--"Mellll_ek",
 				--"Players",         --
 				--"Players",         -- 
