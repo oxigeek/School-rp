@@ -58,6 +58,8 @@ return {
 				--"RaionO_O",            --Vic
 				"Msne76",              --MAE
 				"youmielol",           --MAE alt
+				"MAEKAN3000",            --Busier
+				"MAEKAN3001",            --Busier 
 			}
 		},
 
@@ -71,8 +73,6 @@ return {
 				"epeistenoir9",          --Landers
 				--"S4turne_lly",           --Landers alt
 				"MechantMeusieu",        --Fripouille
-				"MAEKAN3000",            --Busier
-				"MAEKAN3001",            --Biser 
 			}
 		},
 
