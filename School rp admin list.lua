@@ -73,6 +73,7 @@ return {
 				"epeistenoir9",          --Landers
 				--"S4turne_lly",           --Landers alt
 				"MechantMeusieu",        --Fripouille
+				"Azxcomiks13",         --Comiks
 			}
 		},
 
@@ -91,7 +92,7 @@ return {
 				--"Bad_meuf26",          --Peche
 				"Oshibanane",          --Oshi
 				"Adriax51100",         --Adriax
-				"Azxcomiks13",         --Comiks
+				
 				--"encoreban54895",      -- Oshi
 				--"Azxcomiks13",
 
