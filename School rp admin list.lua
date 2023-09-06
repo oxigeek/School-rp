@@ -16,9 +16,9 @@ return {
 			["players"] = {
 				--Equipe de build
 				--"Players",         --
-				"Poulakisi",          --Mr.Poulaki
-				"Poulakiis",          --Mr.Poulaki
-				"Loupbleu_VoiceChat", --Oxi alt 
+				--"Poulakisi",          --Mr.Poulaki
+				--"Poulakiis",          --Mr.Poulaki
+				--"Loupbleu_VoiceChat", --Oxi alt 
 			}
 		},
 
