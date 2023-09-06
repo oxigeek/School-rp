@@ -33,7 +33,7 @@ return {
 
 		{
 			["Name"] = "Super Admin",
-			["RankPoint"] = 35,
+			["RankPoint"] = 38,
 			["players"] = {
 
 			}
@@ -42,7 +42,7 @@ return {
 
 		{
 			["Name"] = "Admin",
-			["RankPoint"] = 30,
+			["RankPoint"] = 37,
 			["players"] = {
 				--"AdvanS7evn",            --Advan
 				"ALEXENDRE_192",         --GATOR
@@ -53,7 +53,7 @@ return {
 
 		{
 			["Name"] = "Modérateur Senior",
-			["RankPoint"] = 20,
+			["RankPoint"] = 36,
 			["players"] = {
 				--"RaionO_O",            --Vic
 				"Msne76",              --MAE
