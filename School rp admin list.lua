@@ -98,6 +98,7 @@ return {
 				"phoenixpik",      --Phoenix
 				"L_Lawliet2508",   --Gunthen
 				"nicolasclaus",    --Nicolasclaus
+				"leGnome9",        --Gnome
 
 
 			}
