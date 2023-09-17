@@ -95,6 +95,9 @@ return {
 				
 				--"encoreban54895",      -- Oshi
 				--"Azxcomiks13",
+				"phoenixpik",      --Phoenix
+				"L_Lawliet2508",   --Gunthen
+				"nicolasclaus",    --
 
 
 			}
