@@ -97,7 +97,7 @@ return {
 				--"Azxcomiks13",
 				"phoenixpik",      --Phoenix
 				"L_Lawliet2508",   --Gunthen
-				"nicolasclaus",    --
+				"nicolasclaus",    --Nicolasclaus
 
 
 			}
