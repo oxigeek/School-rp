@@ -42,24 +42,26 @@ return {
 
 		{
 			["Name"] = "Admin",
-			["RankPoint"] = 37,
+			["RankPoint"] = 35,
 			["players"] = {
 				--"AdvanS7evn",            --Advan
 				"ALEXENDRE_192",         --GATOR
 				"alexendre192",          --GATOR ALT
+				"Msne76",              --MAE
+				"youmielol",           --MAE alt
 			}
 		},
 
 
 		{
 			["Name"] = "Modérateur Senior",
-			["RankPoint"] = 36,
+			["RankPoint"] = 30,
 			["players"] = {
 				--"RaionO_O",            --Vic
-				"Msne76",              --MAE
-				"youmielol",           --MAE alt
 				"MAEKAN3000",            --Busier
 				"MAEKAN3001",            --Busier 
+				"epeistenoir9",          --Landers
+				--"S4turne_lly",           --Landers alt
 			}
 		},
 
@@ -70,8 +72,6 @@ return {
 				--"AdvanS7evn",            --Advan
 				--"Nako_28",               --Boubacar Nawel
 				--"AlloBassemOeCgreg",     --VINCENT CANICULE
-				"epeistenoir9",          --Landers
-				--"S4turne_lly",           --Landers alt
 				"MechantMeusieu",        --Fripouille
 				"Azxcomiks13",         --Comiks
 			}
