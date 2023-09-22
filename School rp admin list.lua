@@ -100,6 +100,7 @@ return {
 				"nicolasclaus",    --Nicolasclaus
 				"leGnome9",        --Gnome alt
 				"GnomeOrphee74",   --Gnome
+				"GnomeOrphee74",   --Gnome alt2
 				"Inspecteur_Li",   --Mme. Livi
 
 
