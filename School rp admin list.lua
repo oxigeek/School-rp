@@ -90,7 +90,7 @@ return {
 
 
 				--"Bad_meuf26",          --Peche
-				"Oshibanane",          --Oshi
+				--"Oshibanane",          --Oshi
 				--"Adriax51100",         --Adriax
 				
 				--"encoreban54895",      -- Oshi
