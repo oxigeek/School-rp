@@ -74,6 +74,11 @@ return {
 				--"AlloBassemOeCgreg",     --VINCENT CANICULE
 				"MechantMeusieu",        --Fripouille
 				"Azxcomiks13",         --Comiks
+
+				"phoenixpik",      --Phoenix
+				"L_Lawliet2508",   --Gunthen
+				"GnomeOrphee74",   --Gnome
+				"nicolasclaus",    --Nicolasclaus
 			}
 		},
 
@@ -95,12 +100,10 @@ return {
 				
 				--"encoreban54895",      -- Oshi
 				--"Azxcomiks13",
-				"phoenixpik",      --Phoenix
-				"L_Lawliet2508",   --Gunthen
-				"nicolasclaus",    --Nicolasclaus
+				
 				--"leGnome9",        --Gnome alt
 				--"GnomeOrphee74",   --Gnome
-				"GnomeOrphee74",   --Gnome alt2
+				
 				"Inspecteur_Li",   --Mme. Livi
 
 
