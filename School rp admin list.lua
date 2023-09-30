@@ -78,6 +78,7 @@ return {
 				"phoenixpik",      --Phoenix
 				"L_Lawliet2508",   --Gunthen
 				"GnomeOrphee74",   --Gnome
+				"leGnome9",        --Gnome alt
 				"nicolasclaus",    --Nicolasclaus
 			}
 		},
