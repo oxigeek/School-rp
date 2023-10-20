@@ -80,6 +80,7 @@ return {
 				"GnomeOrphee74",   --Gnome
 				"leGnome9",        --Gnome alt
 				"nicolasclaus",    --Nicolasclaus
+				"Inspecteur_Li",   --Mme. Livi
 			}
 		},
 
@@ -104,8 +105,6 @@ return {
 				
 				--"leGnome9",        --Gnome alt
 				--"GnomeOrphee74",   --Gnome
-				
-				"Inspecteur_Li",   --Mme. Livi
 
 
 			}
