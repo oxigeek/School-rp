@@ -136,6 +136,7 @@ return {
 			["Name"] = "gérant wl",
 			["RankPoint"] = 10,
 			["players"] = {
+				"COMPTESECOURSMOKE",
 				--"Players",         --
 				--"Players",         -- 
 				--"Players",         --
