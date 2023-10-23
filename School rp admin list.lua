@@ -133,7 +133,7 @@ return {
 		},
 
 		{
-			["Name"] = "gérant wl",
+			["Name"] = "gérant wl adj",
 			["RankPoint"] = 10,
 			["players"] = {
 				"COMPTESECOURSMOKE",
